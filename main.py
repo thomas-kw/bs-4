@@ -75,7 +75,7 @@ for item in new_list:
 str_new_list = ''.join(new_list2)
 
 
-with open("text_1.txt", 'w') as f:
+with open("movies.txt", 'w') as f:
     f.write(str_new_list)
 
 
